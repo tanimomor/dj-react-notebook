@@ -1,0 +1,5 @@
+asgiref==3.8.1
+Django @ file:///work/ci_py311/django_1676851927387/work
+django-cors-headers==4.3.1
+djangorestframework==3.15.1
+sqlparse @ file:///croot/sqlparse_1690901927333/work
